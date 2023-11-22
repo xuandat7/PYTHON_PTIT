@@ -1,3 +1,3 @@
-# PYTHON_PTIT2
+# PYTHON PTIT 
 
 Các bài đã được submit và AC trên hệ thống **https://code.ptit.edu.vn/**
